@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CreateJiraTicketConfiguration">
+    <option name="jiraUrl" value="http://192.168.100.5:8082/" />
+    <option name="password" value="28869640" />
+    <option name="project" value="" />
+    <option name="username" value="damiano.curreri" />
+  </component>
+</project>
+
